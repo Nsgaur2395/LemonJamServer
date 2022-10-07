@@ -17,7 +17,7 @@
     },
     "buildpacks":[
         {
-            "url":"heroku/python"
+            "url":"https://github.com/Nsgaur2395/LemonJamServer/blob/main/app.json"
         }
     ]
 }
